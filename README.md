@@ -57,3 +57,8 @@ This project simulates the manufacturing process of an ice cream factory, where 
  
 ### Conclusion:
 This project demonstrates an effective implementation of concurrent task processing in an operating system using Linux kernel programming. It simulates the production of ice cream in a factory setting, focusing on task synchronization, deadlock prevention, and resource management.
+
+## Author
+Muhammad Abubakkar Kaleem  
+BSCS, FAST-NUCES (2018–2022)  
+This project was created as part of the **Operating Systems** course project.
