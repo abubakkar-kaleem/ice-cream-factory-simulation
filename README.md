@@ -52,7 +52,8 @@ This project simulates the manufacturing process of an ice cream factory, where 
 - **Synchronization**: Using semaphores ensured that each machine resource was properly synchronized, allowing tasks to be performed in a sequence while preventing race conditions.
 
 ### Screenshots 
-    ![Uploading Screenshot from 2020-12-16 22-06-34.png…]()
+    ![Screenshot from 2020-12-16 22-06-34](https://github.com/user-attachments/assets/580eaf1e-c02e-43bd-853b-9a296d6116be)
+
 
  
 ### Conclusion:
